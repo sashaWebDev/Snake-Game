@@ -126,9 +126,3 @@ function move(event){
             break
     }
 }
-canvas{
-    display: block;
-    margin: 0 auto;
-    border: 2px solid red;
-    cursor: pointer;
-}

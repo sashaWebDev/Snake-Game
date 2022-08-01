@@ -43,6 +43,11 @@ function start(){
         ctx.font = "50px monospace"
         ctx.textAlign = 'center'
         ctx.fillText("Start", 300, 500)
+        
+         ctx.fillStyle = "black";
+        ctx.font = "60px monospace"
+        ctx.textAlign = 'center'
+        ctx.fillText("Maks PIDAR", 250, 250)
     }
 
     canv.onclick = function(){

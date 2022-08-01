@@ -33,7 +33,7 @@ function start(){
     moveY = 0;
 
     let background = new Image()
-    background.src = 'background.png'
+    background.src = 'img/background.png'
     background.width = 598 + "px"
     background.height = 598 + "px"
 

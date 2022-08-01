@@ -42,12 +42,8 @@ function start(){
         ctx.fillStyle = "black";
         ctx.font = "50px monospace"
         ctx.textAlign = 'center'
-        ctx.fillText("Start", 300, 500)
-        
-         ctx.fillStyle = "black";
-        ctx.font = "60px monospace"
-        ctx.textAlign = 'center'
-        ctx.fillText("Maks PIDAR", 250, 250)
+        ctx.fillText("Start! Maks PIDAR", 300, 500)
+    
     }
 
     canv.onclick = function(){
